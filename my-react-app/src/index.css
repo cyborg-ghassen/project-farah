@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.highlight-row {
+    background-color: #ffb300 !important; /* Orange background */
+  }
+
+  .highlight-green-row {
+    background-color: #1bbb20 !important; /* light green */
+  }
+  .highlight-yellow-row {
+    background-color: #d3d020 !important; /* light green */
+  }
+  
+  
+  
